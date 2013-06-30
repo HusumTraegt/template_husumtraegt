@@ -1,0 +1,1 @@
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:template_husumtraegt/Configuration/TypoScript/lib/content_setup.ts">
