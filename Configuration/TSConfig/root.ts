@@ -1,1 +1,1 @@
-RTE.default.showButtons = bold, italic, sunorderedlist, outdent, indent, insertcharacter, link, findreplace, chMode, removeformat, undo, redo
+RTE.default.showButtons = bold, italic, unorderedlist, outdent, indent, insertcharacter, link, findreplace, chMode, removeformat, undo, redo
