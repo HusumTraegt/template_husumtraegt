@@ -1,0 +1,1 @@
+RTE.default.showButtons = bold, italic, sunorderedlist, outdent, indent, insertcharacter, link, findreplace, chMode, removeformat, undo, redo
