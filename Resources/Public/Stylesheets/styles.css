@@ -1,0 +1,157 @@
+body {
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+header {
+    margin: 2em 5%;
+    width: 90%;
+    color: #333;
+    text-shadow: 0.1em 0.17em 0 #235796;
+    font-family: 'Open Sans', sans-serif;
+    overflow: auto;
+    display: none;
+}
+
+header img.logo {
+    width: 10%;
+    display: block;
+    float: left;
+    margin-right: 5%;
+}
+
+header h1,
+header h2 {
+    display: inline-block;
+    font-size: 2.5em;
+    font-weight: normal;
+    margin-bottom: 0.5em;
+}
+header h2 {
+    font-size: 1.75em;
+}
+nav {
+    background-color: rgba(238,238,238, 0.95);
+    padding: 0;
+    font-size: 1em;
+    position: absolute;
+    width: 100%;
+    max-width: 1000px;
+    text-align: left;
+    margin: 0 auto;
+}
+nav ul {
+    text-align: right;
+    padding: 0.5em 1.5em;
+    margin: 0;
+}
+nav ul li {
+    display: inline-block;
+    padding: 0 5px;
+}
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.moodimage {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 1000px;
+    overflow: hidden;
+    max-height: 600px;
+}
+.moodimage img {
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    display: block;
+}
+.moodimage .bannertext {
+    position: absolute;
+    margin-top: 5.5em;
+    margin-left: 3em;
+    width: 70%;
+    background: rgba(255,255,255, 0.7);
+    padding: 1em;
+    max-width: 500px;
+    color: #333;
+}
+.moodimage .bannertext img {
+    width: 20%;
+    float: left;
+    margin-right: 5%;
+}
+.moodimage h2 {
+    margin-top: 0;
+}
+.maincontent {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: left;
+    border-top: 0;
+    padding: 20px 50px;
+    background: rgba(255,255,255, 0.7);
+    min-height: 400px;
+}
+@media all and (max-width: 1000px) {
+    .maincontent {
+        padding: 15px 5%;
+        border: 0;
+    }
+}
+@media all and (min-width: 1000px) {
+    body {
+        background-image: url(../Images/page_background.jpg);
+        background-size: 100% auto;
+    }
+}
+@media all and (max-width: 600px) {
+    header {
+        font-size: 80%;
+    }
+    .moodimage img {
+        display: none;
+    }
+    .moodimage .bannertext {
+        position: relative;
+        background-color: rgba(225,112,75, 1);
+        padding: 1em 5%;
+        width: 90%;
+        margin: 0;
+        left: 0;
+        max-width: 600px;
+    }
+    nav {
+        position: relative;
+    }
+    nav ul {
+        padding: 0;
+    }
+    nav ul li {
+        display: block;
+        padding: 0;
+        border-bottom: 1px dashed #666;
+    }
+    nav ul li:last-child {
+        border-bottom: 0;
+    }
+    nav a {
+        padding: 1em;
+        display: block;
+    }
+    nav a:hover {
+        text-decoration: none;
+        padding-right: 1.2em;
+    }
+}
+@media all and (max-width: 460px) {
+    header {
+        font-size: 70%;
+    }
+}

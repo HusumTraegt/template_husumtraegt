@@ -1,6 +1,32 @@
 <html xmlns:f="http://typo3.org/ns/fluid/ViewHelpers">
 <f:layout name="Default"/>
 <f:section name="main">
-	<f:format.html parseFuncTSPath=""><f:cObject typoscriptObjectPath="lib.content" /></f:format.html>
+	<div class="moodimage">
+		<nav>
+			<ul>
+				<li>
+					<a href="#">Startseite</a>
+				</li>
+				<li>
+					<a href="#">Warum tragen?</a>
+				</li>
+				<li>
+					<a href="#">Trageberatung</a>
+				</li>
+				<li>
+					<a href="#">Video-Anleitungen</a>
+				</li>
+			</ul>
+		</nav>
+		<div class="bannertext">
+			<img src="{f:uri.resource(path:'Images/logo.svg',extensionName:'TemplateHusumtraegt')}" />
+			<h2>Trageberatung Husum</h2>
+			<p>Ich helfe Ihnen dabei Ihr Baby oder Kind zu tragen. Morbi condimentum, ligula quis cursus cursus, nibh nisl venenatis magna, sit amet aliquam turpis ligula nec elit.</p>
+		</div>
+		<img src="{f:uri.resource(path:'Images/keyvisual.jpg',extensionName:'TemplateHusumtraegt')}" />
+	</div>
+	<div class="maincontent">
+		<f:format.html parseFuncTSPath=""><f:cObject typoscriptObjectPath="lib.content" /></f:format.html>
+	</div>
 </f:section>
 </html>
