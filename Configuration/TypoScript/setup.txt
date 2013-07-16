@@ -1,2 +1,3 @@
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:template_husumtraegt/Configuration/TypoScript/page/_all_setup.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:template_husumtraegt/Configuration/TypoScript/config/_all_setup.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:template_husumtraegt/Configuration/TypoScript/lib/_all_setup.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:template_husumtraegt/Configuration/TypoScript/page/_all_setup.ts">
