@@ -1,1 +1,4 @@
-plugin.t3colorbox.style = 2
+plugin.t3colorbox {
+	includejquerycore = 0
+	style = 2
+}
