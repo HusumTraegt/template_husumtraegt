@@ -1,0 +1,2 @@
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:template_husumtraegt/Configuration/TypoScript/tt_content/_all_constants.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:template_husumtraegt/Configuration/TypoScript/plugin/_all_constants.ts">

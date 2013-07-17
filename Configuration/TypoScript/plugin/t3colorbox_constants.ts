@@ -1,0 +1,1 @@
+plugin.t3colorbox.style = 2
