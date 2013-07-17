@@ -169,3 +169,8 @@ nav a:hover {
         width: 100%;
     }
 }
+
+.maincontent h1,
+.maincontent p {
+    margin-top: 0;
+}
