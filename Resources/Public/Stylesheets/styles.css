@@ -78,6 +78,18 @@ header h2 {
     background: rgba(255,255,255, 0.7);
     min-height: 400px;
 }
+.csc-textpic .csc-textpic-imagewrap {
+    width: 50%;
+}
+.csc-textpic img {
+    width: 100%;
+    height: auto;
+}
+
+.maincontent h1,
+.maincontent p {
+    margin-top: 0;
+}
 @media all and (max-width: 1000px) {
     .maincontent {
         padding: 15px 5%;
@@ -134,17 +146,4 @@ header h2 {
         float: none;
         width: 100%;
     }
-}
-
-.csc-textpic .csc-textpic-imagewrap {
-    width: 50%;
-}
-.csc-textpic img {
-    width: 100%;
-    height: auto;
-}
-
-.maincontent h1,
-.maincontent p {
-    margin-top: 0;
 }
