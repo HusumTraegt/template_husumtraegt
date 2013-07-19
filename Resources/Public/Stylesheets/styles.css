@@ -36,20 +36,20 @@ nav a {
 nav a:hover {
     background-color: rgb(208,208,208);
 }
-.moodimage {
+header {
     text-align: left;
     margin: 0 auto;
     max-width: 1000px;
     overflow: hidden;
     max-height: 600px;
 }
-.moodimage img {
+header img.mood {
     width: 100%;
     max-width: 1000px;
     height: auto;
     display: block;
 }
-.moodimage .bannertext {
+header .bannertext {
     position: absolute;
     margin-top: 5.5em;
     margin-left: 3em;
@@ -59,12 +59,13 @@ nav a:hover {
     max-width: 500px;
     color: #333;
 }
-.moodimage .bannertext img {
+header .bannertext img {
     width: 20%;
     float: left;
     margin-right: 5%;
+    display: block;
 }
-.moodimage h2 {
+header h2 {
     margin-top: 0;
 }
 .maincontent {
@@ -96,7 +97,7 @@ nav a:hover {
     }
 }
 @media all and (max-width: 610px) {
-    .moodimage .bannertext {
+    header .bannertext {
         position: relative;
         background-color: #eee;
         padding: 1em 5%;
