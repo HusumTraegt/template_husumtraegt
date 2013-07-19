@@ -4,52 +4,27 @@ body {
     text-align: center;
 }
 
-header {
-    margin: 2em 5%;
-    width: 90%;
-    color: #333;
-    text-shadow: 0.1em 0.17em 0 #235796;
-    font-family: 'Open Sans', sans-serif;
-    overflow: auto;
-    display: none;
-}
-
-header img.logo {
-    width: 10%;
-    display: block;
-    float: left;
-    margin-right: 5%;
-}
-
-header h1,
-header h2 {
-    display: inline-block;
-    font-size: 2.5em;
-    font-weight: normal;
-    margin-bottom: 0.5em;
-}
-header h2 {
-    font-size: 1.75em;
-}
 nav {
-    background-color: rgba(238,238,238, 0.95);
+    background-color: #fff;
     padding: 0;
-    font-size: 1em;
-    position: absolute;
+    font-size: 1.04em;
     width: 100%;
     max-width: 1000px;
     text-align: left;
     margin: 0 auto;
+    border: 2px solid #ddd;
+    border-left: 0;
+    border-right: 0;
 }
 nav ul {
     text-align: right;
-    padding: 0 1em;
+    padding: 0;
     margin: 0;
     overflow: auto;
 }
 nav ul li {
     display: inline-block;
-    border-left: 2px solid #fff;
+    border-left: 2px solid #ddd;
 }
 nav a {
     text-decoration: none;
@@ -115,16 +90,15 @@ nav a:hover {
         background-size: 100% auto;
     }
 }
-@media all and (max-width: 600px) {
-    header {
-        font-size: 80%;
-    }
-    .moodimage img {
+@media all and (max-width: 567px) {
+    img.mood {
         display: none;
     }
+}
+@media all and (max-width: 610px) {
     .moodimage .bannertext {
         position: relative;
-        background-color: rgba(225,112,75, 1);
+        background-color: #eee;
         padding: 1em 5%;
         width: 90%;
         margin: 0;
@@ -133,9 +107,6 @@ nav a:hover {
     }
     nav {
         position: relative;
-    }
-    nav ul {
-        padding: 0;
     }
     nav ul li {
         display: block;
@@ -153,10 +124,9 @@ nav a:hover {
         text-decoration: none;
         padding-right: 1.2em;
     }
-}
-@media all and (max-width: 460px) {
-    header {
-        font-size: 70%;
+    .csc-textpic .csc-textpic-imagewrap {
+        float: none;
+        width: 100%;
     }
 }
 
@@ -166,12 +136,6 @@ nav a:hover {
 .csc-textpic img {
     width: 100%;
     height: auto;
-}
-@media all and (max-width: 600px) {
-    .csc-textpic .csc-textpic-imagewrap {
-        float: none;
-        width: 100%;
-    }
 }
 
 .maincontent h1,

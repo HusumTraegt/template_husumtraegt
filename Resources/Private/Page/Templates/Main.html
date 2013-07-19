@@ -2,16 +2,16 @@
 <f:layout name="Default"/>
 <f:section name="main">
 	<div class="moodimage">
-		<nav>
-			<f:cObject typoscriptObjectPath="lib.navigation" />
-		</nav>
 		<div class="bannertext">
 			<img src="{f:uri.resource(path:'Images/logo.svg',extensionName:'TemplateHusumtraegt')}" />
 			<h2>Trageberatung Husum</h2>
 			<p>Ich helfe Ihnen dabei Ihr Baby oder Kind zu tragen. Morbi condimentum, ligula quis cursus cursus, nibh nisl venenatis magna, sit amet aliquam turpis ligula nec elit.</p>
 		</div>
-		<img src="{f:uri.resource(path:'Images/keyvisual.jpg',extensionName:'TemplateHusumtraegt')}" />
+		<img class="mood" src="{f:uri.resource(path:'Images/keyvisual.jpg',extensionName:'TemplateHusumtraegt')}" />
 	</div>
+	<nav>
+		<f:cObject typoscriptObjectPath="lib.navigation" />
+	</nav>
 	<div class="maincontent">
 		<f:format.html parseFuncTSPath=""><f:cObject typoscriptObjectPath="lib.content" /></f:format.html>
 	</div>
