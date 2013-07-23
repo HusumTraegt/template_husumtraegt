@@ -1,4 +1,6 @@
 page {
+	headerData.2315 = TEXT
+	headerData.2315.value = <link rel="shortcut icon" href="/typo3conf/ext/template_husumtraegt/Resources/Public/Images/favicon.ico" type="image/x-icon">
 	includeCSS {
 		normalize = EXT:template_husumtraegt/Resources/Public/Stylesheets/normalize.css
 		main = EXT:template_husumtraegt/Resources/Public/Stylesheets/styles.css
