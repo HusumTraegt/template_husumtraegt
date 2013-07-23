@@ -6,6 +6,8 @@ page {
 		partialRootPath = EXT:template_husumtraegt/Resources/Private/Page/Partials/
 		file = EXT:template_husumtraegt/Resources/Private/Page/Templates/Main.html
 		variables {
+			homePid = TEXT
+			homePid.value = {$page.homePid}
 			title = TEXT
 			title.field = subtitle // title
 		}
