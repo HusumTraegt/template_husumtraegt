@@ -1,105 +1,47 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="275"
-   height="470"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="VektorLogo.svg">
-  <defs
-     id="defs4">
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect3008"
-       effect="spiro" />
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.42919518"
-     inkscape:cx="294.68874"
-     inkscape:cy="666.53489"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="838"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-582.36211)">
-    <g
-       style="stroke:#ed1c24;stroke-opacity:1;display:inline"
-       id="layer1-9"
-       inkscape:label="Ebene 1"
-       transform="translate(-220.631,390.39175)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3018"
-         d="M 312.00451,318.57281 z"
-         style="fill:none;stroke:#ed1c24;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <g
-         style="stroke:#ed1c24;stroke-width:82.59999847;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="g3135">
-        <g
-           style="stroke:#ed1c24;stroke-width:82.59999847;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="g3094" />
-      </g>
-      <path
-         id="path3088"
-         style="color:#000000;fill:#ed1c24;fill-opacity:1;stroke:#ed1c24;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="M 285,655.21932 C 304.81606,595.87659 279.24219,499.69246 246.95159,447.52806 181.90918,342.45417 305.32453,239.3113 379.21808,333.02227 c 0,0 3.00989,3.40986 6.169,8.17122 4.27165,-2.20782 24.49565,-19.20963 58.44498,-4.96819 65.30529,29.26905 49.91557,131.33713 5.68561,183.69228 C 405.82404,571.63788 325.50995,611.88293 285,655.21932 z"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cscccsc" />
-      <path
-         transform="matrix(1.0001417,0,0,1.0001417,-17.18877,-13.036427)"
-         d="m 367.85713,257.00504 c 0,24.26107 -19.66749,43.92857 -43.92857,43.92857 -24.26108,0 -43.92857,-19.6675 -43.92857,-43.92857 0,-24.26108 19.66749,-43.92857 43.92857,-43.92857 24.26108,0 43.92857,19.66749 43.92857,43.92857 z"
-         sodipodi:ry="43.92857"
-         sodipodi:rx="43.92857"
-         sodipodi:cy="257.00504"
-         sodipodi:cx="323.92856"
-         id="path3925"
-         style="fill:none;stroke:#ed1c24;stroke-width:7.5859251;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="arc" />
-      <path
-         transform="matrix(0.9768304,0,0,0.9768304,10.842711,3.5770398)"
-         d="m 463.57142,302.36218 c 0,14.5961 -11.83247,26.42857 -26.42857,26.42857 -14.59609,0 -26.42857,-11.83247 -26.42857,-26.42857 0,-14.59609 11.83248,-26.42857 26.42857,-26.42857 14.5961,0 26.42857,11.83248 26.42857,26.42857 z"
-         sodipodi:ry="26.428572"
-         sodipodi:rx="26.428572"
-         sodipodi:cy="302.36218"
-         sodipodi:cx="437.14285"
-         id="path3927"
-         style="fill:none;stroke:#ed1c24;stroke-width:7.26431131;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="arc" />
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="275px"
+	 height="470px" viewBox="0 0 275 470" enable-background="new 0 0 275 470" xml:space="preserve">
+<g id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="VektorLogo.svg" inkscape:version="0.48.4 r9939">
+	<defs>
+		
+		<inkscape:path-effect  effect="spiro" is_visible="true" id="path-effect3008"></inkscape:path-effect>
+	</defs>
+	
+		<sodipodi:namedview  bordercolor="#666666" pagecolor="#ffffff" borderopacity="1.0" inkscape:cy="666.53489" id="base" showgrid="false" inkscape:cx="294.68874" inkscape:zoom="0.42919518" inkscape:window-maximized="1" inkscape:window-y="-8" inkscape:window-x="-8" inkscape:window-height="838" inkscape:window-width="1600" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:current-layer="layer1" inkscape:document-units="px">
+		</sodipodi:namedview>
+	<path id="path3018" inkscape:connector-curvature="0" fill="none" stroke="#ED1C24" d="M91.374,126.602"/>
+	<g id="g3135">
+		<g id="g3094">
+		</g>
+	</g>
+	<path id="path3088" sodipodi:nodetypes="cscccsc" inkscape:connector-curvature="0" fill="#ED1C24" stroke="#ED1C24" d="
+		M64.369,463.249c19.816-59.343-5.758-155.527-38.048-207.691C-38.722,150.484,84.694,47.341,158.587,141.052
+		c0,0,3.01,3.41,6.169,8.171c4.272-2.208,24.496-19.21,58.445-4.968c65.305,29.269,49.916,131.337,5.686,183.692
+		C185.193,379.668,104.879,419.913,64.369,463.249z"/>
+	
+		<path id="path3925" sodipodi:rx="43.92857" sodipodi:ry="43.92857" sodipodi:type="arc" sodipodi:cy="257.00504" sodipodi:cx="323.92856" fill="none" stroke="#ED1C24" stroke-width="7.5859" d="
+		M130.089,52.035c0,24.265-19.67,43.935-43.935,43.935S42.22,76.299,42.22,52.035C42.22,27.77,61.89,8.1,86.155,8.1
+		S130.089,27.77,130.089,52.035z"/>
+	
+		<path id="path3927" sodipodi:rx="26.428572" sodipodi:ry="26.428572" sodipodi:type="arc" sodipodi:cy="302.36218" sodipodi:cx="437.14285" fill="none" stroke="#FFFFFF" stroke-width="7.2643" d="
+		M222.533,179.225c0,10.576-8.573,19.149-19.149,19.149c-10.576,0-19.149-8.573-19.149-19.149c0-10.576,8.573-19.149,19.149-19.149
+		C213.96,160.076,222.533,168.649,222.533,179.225z"/>
+	<path id="path3088_1_" sodipodi:nodetypes="cscccsc" inkscape:connector-curvature="0" fill="#FFFFFF" stroke="#ED1C24" d="
+		M152.284,324.957c7.099-21.26-2.063-55.72-13.631-74.409c-23.303-37.644,20.913-74.597,47.387-41.024c0,0,1.078,1.222,2.21,2.927
+		c1.53-0.791,8.776-6.882,20.939-1.78c23.397,10.486,17.883,47.054,2.037,65.811C195.571,295.012,166.797,309.431,152.284,324.957z"
+		/>
+	<path id="path3088_2_" sodipodi:nodetypes="cscccsc" inkscape:connector-curvature="0" fill="none" d="M94.96,421.389
+		c13.862-48.666-10.286-125.456-38.265-166.434c-56.359-82.543,39.623-170.351,102.723-97.31c0,0,2.555,2.646,5.28,6.379
+		c3.371-1.939,19.096-16.408,47.043-6.131c53.826,21.284,45.088,104.311,11.247,148.216
+		C189.557,349.48,126.122,384.907,94.96,421.389z"/>
+	<text transform="matrix(0.0758 -0.9971 0.9971 0.0758 97.8447 409.9746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30">T</tspan><tspan x="21.16" y="-0.352" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-6.57">r</tspan><tspan x="34.192" y="-1.853" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-10.922">a</tspan><tspan x="50.073" y="-4.912" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-15.359">g</tspan><tspan x="68.867" y="-10.159" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-19.311">e</tspan><tspan x="85.173" y="-15.898" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-22.748">b</tspan><tspan x="101.375" y="-22.72" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-26.134">e</tspan><tspan x="116.789" y="-30.363" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-29.203">r</tspan><tspan x="128.068" y="-36.633" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-32.499">a</tspan><tspan x="141.534" y="-45.302" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-36.41">t</tspan><tspan x="150.546" y="-52.427" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-35.009">u</tspan><tspan x="163.152" y="-61.365" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-26.26">n</tspan><tspan x="176.867" y="-68.372" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-15.706">g</tspan><tspan x="194.007" y="-72.864" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-6.905"> </tspan><tspan x="201.433" y="-74.425" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="3.237">H</tspan><tspan x="221.534" y="-73.139" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="16.37">u</tspan><tspan x="236.202" y="-68.781" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="26.855">s</tspan><tspan x="247.318" y="-63.414" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="37.567">u</tspan><tspan x="259.698" y="-54.926" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="53.305">m</tspan></text>
+</g>
+<g id="Ebene_2" display="none">
+	<rect x="96.589" y="345.088" display="inline" fill="none" width="264.411" height="103.912"/>
+	<text transform="matrix(1 0 0 1 96.5895 366.1172)" display="inline"><tspan x="0" y="0" fill="#510808" font-family="'KannadaMN-Bold'" font-size="30">Trageberatung</tspan><tspan x="0" y="36" fill="#510808" font-family="'KannadaMN-Bold'" font-size="30">Husum</tspan></text>
+</g>
+<g id="Ebene_3">
+</g>
 </svg>
