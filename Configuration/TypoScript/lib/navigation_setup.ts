@@ -5,6 +5,8 @@ lib.navigation {
 	1 {
 		NO = 1
 		NO.wrapItemAndSub = <li>|</li>
+		ACT < .NO
+		ACT.wrapItemAndSub = <li class="active">|</li>
 		wrap = <ul>|</ul>
 	}
 

@@ -42,7 +42,7 @@ header .logowrap h2 {
 }
 nav {
     background-color: rgba(255,255,255,0.7);
-    padding: 70px 20px;
+    padding: 70px 0;
     font-size: 1.04em;
     width: 300px;
     max-width: 1000px;
@@ -65,9 +65,10 @@ nav a {
     color: #333;
     font-weight: bold;
     display: block;
-    padding: 0.5em;
+    padding: 0.5em 30px;
     font-size: 1.2em;
 }
+nav .active a,
 nav a:hover {
     background-color: rgb(208,208,208);
 }
