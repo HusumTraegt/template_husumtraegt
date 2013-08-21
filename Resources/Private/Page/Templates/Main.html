@@ -2,18 +2,17 @@
 <f:layout name="Default"/>
 <f:section name="main">
 	<header>
-		<div class="bannertext">
+		<nav>
+			<f:cObject typoscriptObjectPath="lib.navigation" />
+		</nav>
+		<div class="logowrap">
 			<f:link.page pageUid="{homePid}">
 				<img src="{f:uri.resource(path:'Images/logo.svg',extensionName:'TemplateHusumtraegt')}" />
 			</f:link.page>
 			<h2>Trageberatung Husum</h2>
-			<p>Babys und Kinder zu tragen ist natürlich, praktisch, gesund und stärkt Ihre Bindung. Ich helfe Ihnen dabei - Trageberatung mit Herz.</p>
 		</div>
 		<img class="mood" src="{f:uri.resource(path:'Images/keyvisual.jpg',extensionName:'TemplateHusumtraegt')}" />
 	</header>
-	<nav>
-		<f:cObject typoscriptObjectPath="lib.navigation" />
-	</nav>
 	<div class="maincontent">
 		<h1>{title}</h1>
 		<f:format.html parseFuncTSPath=""><f:cObject typoscriptObjectPath="lib.content" /></f:format.html>
