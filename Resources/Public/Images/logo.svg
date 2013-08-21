@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="275px"
-	 height="470px" viewBox="0 0 275 470" enable-background="new 0 0 275 470" xml:space="preserve">
-<g id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="VektorLogo.svg" inkscape:version="0.48.4 r9939">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="275px" height="374.5px" viewBox="0 0 275 374.5" enable-background="new 0 0 275 374.5" xml:space="preserve">
+<g id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="VektorLogo.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
 	<defs>
-		<inkscape:path-effect  effect="spiro" is_visible="true" id="path-effect3008"></inkscape:path-effect>
+		
+		<inkscape:path-effect  is_visible="true" effect="spiro" id="path-effect3008"></inkscape:path-effect>
 	</defs>
 	
-		<sodipodi:namedview  bordercolor="#666666" pagecolor="#ffffff" borderopacity="1.0" inkscape:cy="666.53489" id="base" showgrid="false" inkscape:cx="294.68874" inkscape:zoom="0.42919518" inkscape:window-maximized="1" inkscape:window-y="-8" inkscape:window-x="-8" inkscape:window-height="838" inkscape:window-width="1600" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:current-layer="layer1" inkscape:document-units="px">
+		<sodipodi:namedview  inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:window-width="1600" inkscape:window-height="838" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-x="-8" inkscape:cx="294.68874" showgrid="false" inkscape:zoom="0.42919518" bordercolor="#666666" pagecolor="#ffffff" inkscape:cy="666.53489" borderopacity="1.0" id="base">
 		</sodipodi:namedview>
-	<path id="path3018" inkscape:connector-curvature="0" fill="none" stroke="#ED1C24" d="M91.374,126.602"/>
+	<path id="path3018" inkscape:connector-curvature="0" fill="none" stroke="#ED1C24" d="M91.273,31.602"/>
 	<g id="g3135">
 		<g id="g3094">
 		</g>
 	</g>
 	<path id="path3088" sodipodi:nodetypes="cscccsc" inkscape:connector-curvature="0" fill="#ED1C24" stroke="#ED1C24" d="
-		M64.369,463.249c19.816-59.343-5.758-155.527-38.048-207.691C-38.722,150.484,84.694,47.341,158.587,141.052
+		M64.268,368.249c19.816-59.343-5.758-155.527-38.048-207.691C-38.823,55.484,84.593-47.659,158.486,46.052
 		c0,0,3.01,3.41,6.169,8.171c4.272-2.208,24.496-19.21,58.445-4.968c65.305,29.269,49.916,131.337,5.686,183.692
-		C185.193,379.668,104.879,419.913,64.369,463.249z"/>
-	<path id="path3927" sodipodi:rx="26.428572" sodipodi:ry="26.428572" sodipodi:type="arc" sodipodi:cy="302.36218" sodipodi:cx="437.14285" fill="none" stroke="#FFFFFF" stroke-width="7.2643" d="
-		M222.533,179.225c0,10.576-8.573,19.149-19.149,19.149c-10.576,0-19.149-8.573-19.149-19.149c0-10.576,8.573-19.149,19.149-19.149
-		C213.96,160.076,222.533,168.649,222.533,179.225z"/>
+		C185.092,284.668,104.778,324.913,64.268,368.249z"/>
+	
+		<path id="path3927" sodipodi:ry="26.428572" sodipodi:rx="26.428572" sodipodi:cy="302.36218" sodipodi:type="arc" sodipodi:cx="437.14285" fill="none" stroke="#FFFFFF" stroke-width="7.2643" d="
+		M222.432,84.225c0,10.576-8.573,19.149-19.149,19.149s-19.149-8.573-19.149-19.149s8.573-19.149,19.149-19.149
+		S222.432,73.649,222.432,84.225z"/>
 	<path id="path3088_1_" sodipodi:nodetypes="cscccsc" inkscape:connector-curvature="0" fill="#FFFFFF" stroke="#ED1C24" d="
-		M152.284,324.957c7.099-21.26-2.063-55.72-13.631-74.409c-23.303-37.644,20.913-74.597,47.387-41.024c0,0,1.078,1.222,2.21,2.927
-		c1.53-0.791,8.776-6.882,20.939-1.78c23.397,10.486,17.883,47.054,2.037,65.811C195.571,295.012,166.797,309.431,152.284,324.957z"
+		M152.183,229.957c7.099-21.26-2.063-55.72-13.631-74.409c-23.303-37.644,20.913-74.597,47.387-41.024c0,0,1.078,1.222,2.21,2.927
+		c1.53-0.791,8.776-6.882,20.939-1.78c23.397,10.486,17.883,47.054,2.037,65.811C195.47,200.012,166.696,214.431,152.183,229.957z"
 		/>
-	<path id="path3088_2_" sodipodi:nodetypes="cscccsc" inkscape:connector-curvature="0" fill="none" d="M94.96,421.389
-		c13.862-48.666-10.286-125.456-38.265-166.434c-56.359-82.543,39.623-170.351,102.723-97.31c0,0,2.555,2.646,5.28,6.379
+	<path id="path3088_2_" sodipodi:nodetypes="cscccsc" inkscape:connector-curvature="0" fill="none" d="M94.859,326.389
+		c13.862-48.666-10.286-125.456-38.265-166.434C0.235,77.412,96.217-10.396,159.317,62.645c0,0,2.555,2.646,5.28,6.379
 		c3.371-1.939,19.096-16.408,47.043-6.131c53.826,21.284,45.088,104.311,11.247,148.216
-		C189.557,349.48,126.122,384.907,94.96,421.389z"/>
-	<text transform="matrix(0.0758 -0.9971 0.9971 0.0758 97.8447 409.9746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30">T</tspan><tspan x="21.16" y="-0.352" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-6.57">r</tspan><tspan x="34.192" y="-1.853" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-10.922">a</tspan><tspan x="50.073" y="-4.912" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-15.359">g</tspan><tspan x="68.867" y="-10.159" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-19.311">e</tspan><tspan x="85.173" y="-15.898" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-22.748">b</tspan><tspan x="101.375" y="-22.72" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-26.134">e</tspan><tspan x="116.789" y="-30.363" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-29.203">r</tspan><tspan x="128.068" y="-36.633" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-32.499">a</tspan><tspan x="141.534" y="-45.302" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-36.41">t</tspan><tspan x="150.546" y="-52.427" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-35.009">u</tspan><tspan x="163.152" y="-61.365" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-26.26">n</tspan><tspan x="176.867" y="-68.372" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-15.706">g</tspan><tspan x="194.007" y="-72.864" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-6.905"> </tspan><tspan x="201.433" y="-74.425" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="3.237">H</tspan><tspan x="221.534" y="-73.139" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="16.37">u</tspan><tspan x="236.202" y="-68.781" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="26.855">s</tspan><tspan x="247.318" y="-63.414" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="37.567">u</tspan><tspan x="259.698" y="-54.926" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="53.305">m</tspan></text>
+		C189.456,254.48,126.021,289.907,94.859,326.389z"/>
+	<text transform="matrix(0.0758 -0.9971 0.9971 0.0758 97.8447 309.9746)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30">T</tspan><tspan x="21.16" y="-0.352" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-6.57">r</tspan><tspan x="34.192" y="-1.853" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-10.922">a</tspan><tspan x="50.073" y="-4.912" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-15.359">g</tspan><tspan x="68.867" y="-10.159" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-19.311">e</tspan><tspan x="85.173" y="-15.898" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-22.748">b</tspan><tspan x="101.375" y="-22.72" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-26.134">e</tspan><tspan x="116.789" y="-30.363" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-29.203">r</tspan><tspan x="128.068" y="-36.633" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-32.499">a</tspan><tspan x="141.534" y="-45.302" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-36.41">t</tspan><tspan x="150.546" y="-52.427" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-35.009">u</tspan><tspan x="163.152" y="-61.365" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-26.26">n</tspan><tspan x="176.867" y="-68.372" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-15.706">g</tspan><tspan x="194.007" y="-72.864" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="-6.905"> </tspan><tspan x="201.433" y="-74.425" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="3.237">H</tspan><tspan x="221.534" y="-73.139" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="16.37">u</tspan><tspan x="236.202" y="-68.781" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="26.855">s</tspan><tspan x="247.318" y="-63.414" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="37.567">u</tspan><tspan x="259.698" y="-54.926" fill="#FFFFFF" font-family="'KannadaMN-Bold'" font-size="30" rotate="53.305">m</tspan></text>
 </g>
 </svg>
