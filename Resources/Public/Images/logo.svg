@@ -5,7 +5,6 @@
 	 height="470px" viewBox="0 0 275 470" enable-background="new 0 0 275 470" xml:space="preserve">
 <g id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="VektorLogo.svg" inkscape:version="0.48.4 r9939">
 	<defs>
-		
 		<inkscape:path-effect  effect="spiro" is_visible="true" id="path-effect3008"></inkscape:path-effect>
 	</defs>
 	
@@ -20,12 +19,7 @@
 		M64.369,463.249c19.816-59.343-5.758-155.527-38.048-207.691C-38.722,150.484,84.694,47.341,158.587,141.052
 		c0,0,3.01,3.41,6.169,8.171c4.272-2.208,24.496-19.21,58.445-4.968c65.305,29.269,49.916,131.337,5.686,183.692
 		C185.193,379.668,104.879,419.913,64.369,463.249z"/>
-	
-		<path id="path3925" sodipodi:rx="43.92857" sodipodi:ry="43.92857" sodipodi:type="arc" sodipodi:cy="257.00504" sodipodi:cx="323.92856" fill="#FFFFFF" stroke="#ED1C24" stroke-width="7.5859" d="
-		M130.089,52.035c0,24.265-19.67,43.935-43.935,43.935S42.22,76.299,42.22,52.035C42.22,27.77,61.89,8.1,86.155,8.1
-		S130.089,27.77,130.089,52.035z"/>
-	
-		<path id="path3927" sodipodi:rx="26.428572" sodipodi:ry="26.428572" sodipodi:type="arc" sodipodi:cy="302.36218" sodipodi:cx="437.14285" fill="none" stroke="#FFFFFF" stroke-width="7.2643" d="
+	<path id="path3927" sodipodi:rx="26.428572" sodipodi:ry="26.428572" sodipodi:type="arc" sodipodi:cy="302.36218" sodipodi:cx="437.14285" fill="none" stroke="#FFFFFF" stroke-width="7.2643" d="
 		M222.533,179.225c0,10.576-8.573,19.149-19.149,19.149c-10.576,0-19.149-8.573-19.149-19.149c0-10.576,8.573-19.149,19.149-19.149
 		C213.96,160.076,222.533,168.649,222.533,179.225z"/>
 	<path id="path3088_1_" sodipodi:nodetypes="cscccsc" inkscape:connector-curvature="0" fill="#FFFFFF" stroke="#ED1C24" d="
