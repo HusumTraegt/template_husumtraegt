@@ -2,20 +2,25 @@
 <f:layout name="Default"/>
 <f:section name="main">
 	<header>
-		<nav>
-			<f:cObject typoscriptObjectPath="lib.navigation" />
-		</nav>
 		<div class="logowrap">
+			<h2><span class="l1">Trageberatung</span> <span class="l2">Husum</span></h2>
 			<f:link.page pageUid="{homePid}">
 				<img src="{f:uri.resource(path:'Images/logo.svg',extensionName:'TemplateHusumtraegt')}" />
 			</f:link.page>
-			<h2><span class="l1">Trageberatung</span> <span class="l2">Husum</span></h2>
 		</div>
+		<nav>
+			<f:cObject typoscriptObjectPath="lib.navigation" />
+		</nav>
 		<img class="mood" src="{f:uri.resource(path:'Images/keyvisual.jpg',extensionName:'TemplateHusumtraegt')}" />
 	</header>
-	<div class="maincontent">
-		<h1>{title}</h1>
-		<f:format.html parseFuncTSPath=""><f:cObject typoscriptObjectPath="lib.content" /></f:format.html>
+	<div class="maincontent gridrow">
+		<div class="subcontent col col1-4">
+			SUBCONTENT
+		</div>
+		<div class="col col3-4">
+			<h1>{title}</h1>
+			<f:format.html parseFuncTSPath=""><f:cObject typoscriptObjectPath="lib.content" /></f:format.html>
+		</div>
 	</div>
 </f:section>
 </html>
