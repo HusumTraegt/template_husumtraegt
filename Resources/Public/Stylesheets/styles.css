@@ -1,140 +1,201 @@
 body {
-    background-color: white;
-    font-family: 'Open Sans', sans-serif;
-    text-align: center;
+	background-color: white;
+	text-align: center;
+	font-family: 'Nunito', Arial, sans-serif;
 }
 
 .pagewrap {
-    background-color: #fff;
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
-    text-align: left;
+	background-color: rgba(255, 255, 255, 0.8);
+	width: 100%;
+	max-width: 1056px;
+	margin: 0 auto;
+	text-align: left;
 }
+
 header {
-    background-color: #D8B4B4;
-    padding-bottom: 80px;
+	background-color: #483157;
+	padding-bottom: 28px;
 }
+
 header img.mood {
-    width: 100%;
-    max-width: 1000px;
-    height: auto;
-    display: block;
+	width: 100%;
+	max-width: 1056px;
+	height: auto;
+	display: block;
 }
+
 header .logowrap {
-    float: right;
-    width: 400px;
-    overflow: auto;
-    padding: 10px;
+	overflow: auto;
+	padding: 28px;
+	text-align: right;
 }
+
+header .logowrap a {
+	display: block;
+	float: right;
+}
+
 header .logowrap img {
-    height: 120px;
-    margin-right: 30px;
-    display: block;
-    float: left;
+	display: block;
+	height: 120px;
+	-webkit-transform: rotate(6deg);
+	-moz-transform: rotate(6deg);
+	-ms-transform: rotate(6deg);
+	-o-transform: rotate(6deg);
+	transform: rotate(6deg);
 }
+
 header .logowrap h2 {
-    display: block;
-    float: left;
-    font-size: 1.8em;
-    color: #fff;
-    width: 250px;
+	color: #fff;
+	display: block;
+	float: right;
+	font-family: Italianno, Arial, sans-serif;
+	font-size: 3.1em;
+	line-height: 1em;
+	text-align: left;
+	margin: 16px 0 0;
 }
+
+header .logowrap h2 .l1,
+header .logowrap h2 .l2 {
+	display: block;
+}
+
+header .logowrap h2 .l1 {
+	padding-left: 20px;
+}
+
 nav {
-    background-color: rgba(255,255,255,0.7);
-    padding: 70px 0;
-    font-size: 1.04em;
-    width: 300px;
-    max-width: 1000px;
-    text-align: left;
-    border-left: 0;
-    border-right: 0;
-    margin-left: 30px;
-    position: absolute;
-    margin-top: 100px;
-    height: 377px;
+	background-color: rgba(255, 255, 255, .85);
+	padding: 14px 0;
+	font-size: 1.04em;
+	width: 229px;
+	text-align: left;
+	border: 0;
+	margin-left: 28px;
+	position: absolute;
+	margin-top: -14px;
+	height: 402px;
+	-moz-box-shadow: 3px 3px 3px 1px #666;
+	-webkit-box-shadow: 3px 3px 3px 1px #666;
+	box-shadow: 3px 3px 3px 1px #666;
 }
+
 nav ul {
-    text-align: left;
-    padding: 0;
-    margin: 0;
-    overflow: auto;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	overflow: auto;
 }
+
 nav a {
-    text-decoration: none;
-    color: #333;
-    font-weight: bold;
-    display: block;
-    padding: 0.5em 30px;
-    font-size: 1.2em;
+	text-decoration: none;
+	color: #483157;
+	font-weight: bold;
+	display: block;
+	padding: 7px 14px;
+	font-size: 1.2em;
 }
+
 nav .active a,
 nav a:hover {
-    background-color: rgb(208,208,208);
+	background-color: rgba(122, 122, 122, 0.3);
 }
+
 .maincontent {
-    width: 90%;
-    max-width: 900px;
-    margin: 0 auto;
-    text-align: left;
-    border-top: 0;
-    padding: 40px 50px;
-    background: rgba(255,255,255, 0.7);
-    min-height: 400px;
+	text-align: left;
+	padding: 28px 0 0 28px;
+	min-height: 400px;
 }
+
 .csc-textpic .csc-textpic-imagewrap {
-    width: 50%;
+	width: 50%;
 }
+
 .csc-textpic img {
-    width: 100%;
-    height: auto;
+	width: 100%;
+	height: auto;
 }
 
 .maincontent h1,
 .maincontent p {
-    margin-top: 0;
+	margin-top: 0;
 }
+
+.gridrow {
+	overflow: auto;
+}
+
+.gridrow .col {
+	float: left;
+	margin-right: 28px;
+	padding: 14px;
+}
+.gridrow .col.bleed {
+	padding: 0;
+}
+.gridrow .col1-4 {
+	width: 201px;
+}
+.gridrow .col1-4.bleed {
+	width: 229px;
+}
+.gridrow .col3-4 {
+	width: 715px;
+}
+.gridrow .col3-4.bleed {
+	width: 743px;
+}
+
 @media all and (max-width: 1000px) {
-    .maincontent {
-        padding: 15px 5%;
-        border: 0;
-    }
+	.maincontent {
+		padding: 15px 5%;
+		border: 0;
+	}
 }
+
 @media all and (min-width: 1000px) {
-    body {
-        padding-top: 20px;
-        background-image: url(../Images/page_background.jpg);
-        background-size: 100% auto;
-    }
+	body {
+		padding-top: 20px;
+		background-image: url(../Images/page_background.jpg);
+		background-size: 100% auto;
+	}
 }
+
 @media all and (max-width: 479px) {
-    header img.mood {
-        display: none;
-    }
+	header img.mood {
+		display: none;
+	}
 }
+
 @media all and (max-width: 610px) {
-    nav {
-        font-size: 0.9em;
-        position: relative;
-    }
-    nav ul li {
-        display: block;
-        padding: 0;
-        border-bottom: 1px dashed #666;
-    }
-    nav ul li:last-child {
-        border-bottom: 0;
-    }
-    nav a {
-        padding: 0.5em 1em;
-        display: block;
-    }
-    nav a:hover {
-        text-decoration: none;
-        padding-right: 1.2em;
-    }
-    .csc-textpic .csc-textpic-imagewrap {
-        float: none;
-        width: 100%;
-    }
+	nav {
+		font-size: 0.9em;
+		position: relative;
+	}
+
+	nav ul li {
+		display: block;
+		padding: 0;
+		border-bottom: 1px dashed #666;
+	}
+
+	nav ul li:last-child {
+		border-bottom: 0;
+	}
+
+	nav a {
+		padding: 0.5em 1em;
+		display: block;
+	}
+
+	nav a:hover {
+		text-decoration: none;
+		padding-right: 1.2em;
+	}
+
+	.csc-textpic .csc-textpic-imagewrap {
+		float: none;
+		width: 100%;
+	}
 }

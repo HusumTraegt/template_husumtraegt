@@ -4,8 +4,10 @@ page {
 	includeCSS {
 		normalize = EXT:template_husumtraegt/Resources/Public/Stylesheets/normalize.css
 		main = EXT:template_husumtraegt/Resources/Public/Stylesheets/styles.css
-		fontOpenSans = http://fonts.googleapis.com/css?family=Open+Sans:400
-		fontOpenSans.external = 1
+		webfont1 = http://fonts.googleapis.com/css?family=Italianno
+		webfont1.external = 1
+		webfont2 = http://fonts.googleapis.com/css?family=Nunito
+		webfont2.external = 1
 	}
 	includeJSlibs {
 		jQuery = http://code.jquery.com/jquery-1.10.2.js

@@ -1,0 +1,1 @@
+lib.subcontent < styles.content.getLeft
