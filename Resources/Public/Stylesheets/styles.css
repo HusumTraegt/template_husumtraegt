@@ -88,7 +88,8 @@ nav ul {
 	overflow: auto;
 }
 
-nav a {
+nav a,
+nav .active span {
 	text-decoration: none;
 	color: #483157;
 	font-weight: bold;
@@ -97,9 +98,9 @@ nav a {
 	font-size: 1.2em;
 }
 
-nav .active a,
+nav .active span,
 nav a:hover {
-	background-color: rgba(122, 122, 122, 0.3);
+	background-color: rgba(102, 62, 122, 0.3);
 }
 
 .maincontent {
