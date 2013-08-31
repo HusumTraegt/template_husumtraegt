@@ -12,3 +12,10 @@ lib.navigation {
 	}
 
 }
+
+[globalVar = TSFE:id = 3]
+lib.navigation{
+	# PID 4 is a shortcut to home, show it as active
+	alwaysActivePIDlist = 4
+}
+[global]
