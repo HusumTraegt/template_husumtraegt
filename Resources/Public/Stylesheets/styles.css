@@ -76,9 +76,9 @@ nav {
 	position: absolute;
 	margin-top: -14px;
 	height: 402px;
-	-moz-box-shadow: 3px 3px 3px 1px #666;
-	-webkit-box-shadow: 3px 3px 3px 1px #666;
-	box-shadow: 3px 3px 3px 1px #666;
+	-moz-box-shadow: 3px 3px 3px 1px rgb(63, 39, 79);
+	-webkit-box-shadow: 3px 3px 3px 1px rgb(63, 39, 79);
+	box-shadow: 3px 3px 3px 1px rgb(63, 39, 79);
 }
 
 nav ul {
