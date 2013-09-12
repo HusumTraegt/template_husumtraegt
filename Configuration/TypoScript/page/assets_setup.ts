@@ -8,6 +8,8 @@ page {
 		webfont1.external = 1
 		webfont2 = http://fonts.googleapis.com/css?family=Nunito
 		webfont2.external = 1
+		iconfont = //netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css
+		iconfont.external = 1
 	}
 	includeJSlibs {
 		jQuery = http://code.jquery.com/jquery-1.10.2.js
