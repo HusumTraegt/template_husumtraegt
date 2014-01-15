@@ -4,10 +4,8 @@ page {
 	includeCSS {
 		normalize = EXT:template_husumtraegt/Resources/Public/Stylesheets/normalize.css
 		main = EXT:template_husumtraegt/Resources/Public/Stylesheets/styles.css
-		webfont1 = http://fonts.googleapis.com/css?family=Italianno
-		webfont1.external = 1
-		webfont2 = http://fonts.googleapis.com/css?family=Nunito
-		webfont2.external = 1
+		webfont = http://fonts.googleapis.com/css?family=Parisienne
+		webfont.external = 1
 		iconfont = //netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css
 		iconfont.external = 1
 	}

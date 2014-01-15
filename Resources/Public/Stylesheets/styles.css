@@ -8,8 +8,8 @@ body {
 
 a {
 	display: inline-block;
-	color: #483157;
-	text-decoration: none;
+	color: #6c8643;
+	text-decoration: underline;
 }
 
 a:hover {
@@ -22,15 +22,14 @@ h1, h2 {
 
 .pagewrap {
 	background-color: rgba(255, 255, 255, 0.65);
-	width: 100%;
-	max-width: 1056px;
+	width: 1056px;
 	margin: 0 auto;
 	text-align: left;
 }
 
 header {
 	background-color: #483157;
-	padding-bottom: 28px;
+	padding-bottom: 14px;
 }
 
 header img.mood {
@@ -42,7 +41,7 @@ header img.mood {
 
 header .logowrap {
 	overflow: auto;
-	padding: 28px;
+	padding: 14px 28px;
 	text-align: right;
 }
 
@@ -65,7 +64,7 @@ header .logowrap h2 {
 	color: #fff;
 	display: block;
 	float: right;
-	font-family: Italianno, Arial, sans-serif;
+	font-family: Parisienne, Arial, sans-serif;
 	font-size: 3.1em;
 	line-height: 1em;
 	text-align: left;
@@ -93,7 +92,7 @@ nav {
 	margin-left: 28px;
 	position: absolute;
 	margin-top: -14px;
-	height: 402px;
+	height: 372px;
 	-moz-box-shadow: 3px 3px 3px 1px rgb(63, 39, 79);
 	-webkit-box-shadow: 3px 3px 3px 1px rgb(63, 39, 79);
 	box-shadow: 3px 3px 3px 1px rgb(63, 39, 79);
@@ -113,7 +112,7 @@ nav .active span {
 	font-weight: bold;
 	display: block;
 	padding: 7px 14px;
-	font-size: 1.2em;
+	font-size: 1.1em;
 }
 
 nav .active span,
@@ -124,7 +123,7 @@ nav a:hover {
 
 .maincontent {
 	text-align: left;
-	padding: 28px 0 0 28px;
+	padding: 14px 0 0 28px;
 	min-height: 400px;
 	color: #483157;
 }
@@ -172,53 +171,6 @@ nav a:hover {
 	width: 743px;
 }
 
-@media all and (max-width: 1000px) {
-	.maincontent {
-		padding: 15px 5%;
-		border: 0;
-	}
-}
-
-@media all and (min-width: 1000px) {
-	body {
-		padding-top: 20px;
-	}
-}
-
-@media all and (max-width: 479px) {
-	header img.mood {
-		display: none;
-	}
-}
-
-@media all and (max-width: 610px) {
-	nav {
-		font-size: 0.9em;
-		position: relative;
-	}
-
-	nav ul li {
-		display: block;
-		padding: 0;
-		border-bottom: 1px dashed #666;
-	}
-
-	nav ul li:last-child {
-		border-bottom: 0;
-	}
-
-	nav a {
-		padding: 0.5em 1em;
-		display: block;
-	}
-
-	nav a:hover {
-		text-decoration: none;
-		padding-right: 1.2em;
-	}
-
-	.csc-textpic .csc-textpic-imagewrap {
-		float: none;
-		width: 100%;
-	}
+body {
+	padding-top: 14px;
 }
