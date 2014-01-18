@@ -22,14 +22,18 @@ h1, h2 {
 
 .pagewrap {
 	background-color: rgba(255, 255, 255, 0.65);
-	width: 1056px;
+	width: 1086px;
 	margin: 0 auto;
 	text-align: left;
+	padding-bottom: 15px;
 }
 
 header {
 	background-color: #483157;
-	padding-bottom: 14px;
+	padding: 0 15px 15px;
+}
+body.diapers header {
+	background-color: #50AC9D;
 }
 
 header img.mood {
@@ -114,18 +118,33 @@ nav .active span {
 	padding: 7px 14px;
 	font-size: 1.1em;
 }
+body.diapers nav a,
+body.diapers nav .active span {
+	color: #50AC9D;
+}
 
 nav .active span,
 nav a:hover {
 	background-color: rgba(102, 62, 122, 0.3);
 	text-decoration: none;
 }
+body.diapers nav .active span,
+body.diapers nav a:hover {
+	background-color: rgba(80, 172, 157, 0.3);
+	text-decoration: none;
+}
 
 .maincontent {
 	text-align: left;
-	padding: 14px 0 0 28px;
+	padding: 29px 0 0 28px;
 	min-height: 400px;
 	color: #483157;
+	border: 15px solid #483157;
+	border-top: 0;
+}
+body.diapers .maincontent {
+	color: #50AC9D;
+	border-color: #50AC9D;
 }
 
 .csc-textpic .csc-textpic-imagewrap {

@@ -13,3 +13,9 @@ page {
 		}
 	}
 }
+
+[PIDinRootline = 13]
+page.bodyTag >
+page.bodyTagCObject = TEXT
+page.bodyTagCObject.value = <body class="diapers">
+[global]

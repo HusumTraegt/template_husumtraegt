@@ -2,12 +2,7 @@
 <f:layout name="Default"/>
 <f:section name="main">
 	<header>
-		<div class="logowrap">
-			<h2><span class="l1">Trageberatung</span> <span class="l2">Husum</span></h2>
-			<f:link.page pageUid="{homePid}">
-				<img src="{f:uri.resource(path:'Images/logo.svg',extensionName:'TemplateHusumtraegt')}" />
-			</f:link.page>
-		</div>
+		<f:cObject typoscriptObjectPath="lib.logo" />
 		<nav>
 			<f:cObject typoscriptObjectPath="lib.navigation" />
 		</nav>
