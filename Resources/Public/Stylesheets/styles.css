@@ -4,6 +4,16 @@ body {
 	font-family: Arial, sans-serif;
 	background-image: url(../Images/page_background.jpg);
 	background-size: 100% auto;
+	padding-top: 14px;
+}
+body.diapers {
+	background-image: url(../Images/page_background_diapers4.jpg);
+	background-position: center -30px;
+}
+@media all and (max-width: 1086px) {
+	body {
+		padding-top: 0;
+	}
 }
 
 a {
@@ -22,10 +32,10 @@ h1, h2 {
 
 .pagewrap {
 	background-color: rgba(255, 255, 255, 0.65);
-	width: 1086px;
+	max-width: 1086px;
 	margin: 0 auto;
 	text-align: left;
-	padding-bottom: 15px;
+	margin-bottom: 15px;
 }
 
 header {
@@ -188,8 +198,4 @@ body.diapers .maincontent {
 }
 .gridrow .col3-4.bleed {
 	width: 743px;
-}
-
-body {
-	padding-top: 14px;
 }
