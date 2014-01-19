@@ -8,5 +8,5 @@ temp.keyvisual {
 lib.keyvisual < temp.keyvisual
 [globalVar = TSFE:id = 13]
 lib.keyvisual < temp.keyvisual
-lib.keyvisual.value = ./typo3conf/ext/template_husumtraegt/Resources/Public/Images/keyvisual_diapers.jpg
+lib.keyvisual.value = ./typo3conf/ext/template_husumtraegt/Resources/Public/Images/keyvisual_diapers2.jpg
 [global]
